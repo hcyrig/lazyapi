@@ -23,7 +23,7 @@ let package = Package(
     dependencies: [
       
       .package(url: "https://github.com/hcyrig/NOFoundation.git",
-               exact: .init(0, 2, 5))
+               exact: .init(0, 2, 6))
     
     ],
     

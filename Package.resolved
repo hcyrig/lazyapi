@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/hcyrig/NOFoundation.git",
       "state" : {
-        "revision" : "e708b64cf01827d0e7917248147eab3280254d48",
-        "version" : "0.0.1"
+        "revision" : "73bee6e0e9ac689a6e728af1322ef8d207bd7be7",
+        "version" : "0.2.6"
       }
     }
   ],
